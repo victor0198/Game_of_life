@@ -1,0 +1,9 @@
+{
+  "styles": {
+    "cell_size": 18,
+    "line_width": 2
+  },
+  "configs": {
+    "make_steps": 1
+  }
+}
